@@ -1,0 +1,21 @@
+.forma {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.form-group {
+    width: 1000px;
+}
+
+.row {
+    margin-left: 15px;
+}
+
+input:required:valid{
+border-color: green;
+}
+
+.title{
+    margin-bottom: 30px;
+}
